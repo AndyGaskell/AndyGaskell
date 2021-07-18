@@ -1,14 +1,10 @@
 ### Hi there 👋
 
-
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndyGaskell&layout=compact)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndyGaskell&layout=compact)
 
 [![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndyGaskell)](https://github.com/anuraghazra/github-readme-stats)
 
-📫 How to reach me: 
-* https://twitter.com/AndyGasman
-* https://www.linkedin.com/in/agaskell/
+📫 You can reach me on [twitter](https://twitter.com/AndyGasman) or [linkedin](https://www.linkedin.com/in/agaskell/).
 
 
 <!--
